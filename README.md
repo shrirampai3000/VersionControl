@@ -47,6 +47,5 @@ This is a full-stack version control platform built with the MERN stack (MongoDB
 - Create, commit, and manage branches.
 - Track issues and pull requests.
 
-## License
 
-This project is licensed under the MIT License.
+
